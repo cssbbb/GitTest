@@ -23,5 +23,7 @@ class MainActivity : AppCompatActivity() {
         Log.d("test","test")
         val a1 = 10+10
         val a2 = 10+10
+        val a3 = 10+10
+        val a4 = 10+10
     }
 }
