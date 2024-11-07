@@ -21,5 +21,6 @@ class MainActivity : AppCompatActivity() {
             insets
         }
         Log.d("test","test")
+        val a1 = 10+10
     }
 }
