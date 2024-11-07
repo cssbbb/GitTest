@@ -5,7 +5,11 @@ plugins {
 
 android {
     namespace = "com.lion.gittest"
-    compileSdk = 34
+    compileSdk = 35
+
+    viewBinding { 
+        enable = true
+    }
 
     defaultConfig {
         applicationId = "com.lion.gittest"
