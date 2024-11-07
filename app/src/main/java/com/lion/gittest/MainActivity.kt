@@ -21,14 +21,6 @@ class MainActivity : AppCompatActivity() {
             insets
         }
         Log.d("test","test")
-        val a1 = 10+10
-        val a2 = 10+10
-        val a3 = 10+10
-        val a4 = 10+10
-        val a5 = 10+10
-        val a6 = 10+10
-        val a7 = 10
-        val a8 = 10
-        val a9 = 10
+
     }
 }
