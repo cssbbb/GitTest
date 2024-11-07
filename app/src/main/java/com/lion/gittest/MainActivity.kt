@@ -29,5 +29,6 @@ class MainActivity : AppCompatActivity() {
         val a6 = 10+10
         val a7 = 10
         val a8 = 10
+        val a9 = 10
     }
 }
